@@ -1,17 +1,20 @@
 # Olá, eu sou a Raissa Assis! 👋
 
-<p align="left">
-  <img src="chibi-raissa.png" width="160" align="left" alt="Chibi Raissa">
-  <h3>🎓 Formada em Ciência da Computação</h3>
-  Atualmente, estou mergulhando de cabeça no ecossistema <b>Back-end</b>, com foco especial em <b>Python</b>. Adoro resolver problemas complexos e construir APIs robustas.
-  <br><br>
-  🌱 Estudando: <b>Python (Django/FastAPI)</b> e Arquitetura de Sistemas.<br>
-  💻 Experiência com: <b>Java, JavaScript e Python</b>.<br>
-  📧 Contato: <a href="mailto:raissa2002assis@gmail.com">raissa2002assis@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/raissa-assis-302827199/">Raissa Assis</a>
-</p>
-
-<br clear="right">
+<table>
+  <tr>
+    <td valign="top" width="180">
+      <img src="chibi-raissa.png" width="160" alt="Chibi Raissa">
+    </td>
+    <td valign="top">
+      <h3>🎓 Formada em Ciência da Computação</h3>
+      <p>Atualmente, estou mergulhando de cabeça no ecossistema <b>Back-end</b>, com foco especial em <b>Python</b>. Adoro resolver problemas complexos e construir APIs robustas.</p>
+      🌱 <b>Estudando:</b> Python (Django/FastAPI) e Arquitetura de Sistemas.<br>
+      💻 <b>Experiência com:</b> Java, JavaScript e Python.<br>
+      📧 <b>Contato:</b> <a href="mailto:raissa2002assis@gmail.com">raissa2002assis@gmail.com</a><br>
+      🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/raissa-assis-302827199/">Raissa Assis</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
