@@ -1,14 +1,22 @@
 # Olá, eu sou a Raissa Assis! 👋
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Raissa%20Assis&fontSize=70)
-
-### 🎓 Formada em Ciência da Computação
-Atualmente, estou mergulhando de cabeça no ecossistema **Back-end**, com foco especial em **Python**. Adoro resolver problemas complexos e construir APIs robustas.
-
-- 🌱 Atualmente estudando: **Python (Django/FastAPI)** e Arquitetura de Sistemas.
-- 💻 Experiência com: Java, JavaScript e Python.
-- 📧 Contato: raissa2002assis@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/raissa-assis-302827199/](https://linkedin.com/in/raissa-assis-302827199/)
+<table>
+  <tr>
+    <td width="300px">
+      <img src="chibi-raissa.png" width="300px" alt="Chibi Raissa"/>
+    </td>
+    <td>
+      <h3>🎓 Formada em Ciência da Computação</h3>
+      <p>Atualmente, estou mergulhando de cabeça no ecossistema <b>Back-end</b>, com foco especial em <b>Python</b>. Adoro resolver problemas complexos e construir APIs robustas.</p>
+      <ul>
+        <li>🌱 Atualmente estudando: <b>Python (Django/FastAPI)</b> e Arquitetura de Sistemas.</li>
+        <li>💻 Experiência com: Java, JavaScript e Python.</li>
+        <li>📧 Contato: <a href="mailto:raissa2002assis@gmail.com">raissa2002assis@gmail.com</a></li>
+        <li>🔗 LinkedIn: <a href="https://linkedin.com/in/raissa-assis-302827199/">raissa-assis</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -22,6 +30,14 @@ Atualmente, estou mergulhando de cabeça no ecossistema **Back-end**, com foco e
 **Back-end & Outros**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaissaAssis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaAssis&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
