@@ -29,10 +29,12 @@ Atualmente, estou mergulhando de cabeça no ecossistema **Back-end**, com foco e
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USER-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaAssis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 ### 🏆 Contribuições
-![Snake animation](https://github-community.com/t5/image/serverpage/image-id/20707i81A562B2F4ED8E3B/image-size/medium?v=1.0&px=400)
+Aqui está o meu gráfico de contribuições:
+
+![Gráfico de Contribuições](https://ghchart.rshah.org/RaissaAssis)
