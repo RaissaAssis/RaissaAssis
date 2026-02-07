@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="300px">
-      <img src="RaissaAsssis/chibi-raissa.jpg" width="300px" alt="Chibi Raissa"/>
+      <img src="chibi-raissa.jpg" width="300px" alt="Chibi Raissa"/>
     </td>
     <td>
       <h3>🎓 Formada em Ciência da Computação</h3>
@@ -12,7 +12,7 @@
         <li>🌱 Atualmente estudando: <b>Python (Django/FastAPI)</b> e Arquitetura de Sistemas.</li>
         <li>💻 Experiência com: Java, JavaScript e Python.</li>
         <li>📧 Contato: <a href="mailto:raissa2002assis@gmail.com">raissa2002assis@gmail.com</a></li>
-        <li>🔗 LinkedIn: <a href="https://linkedin.com/in/raissa-assis-302827199/">raissa-assis</a></li>
+        <li>🔗 LinkedIn: <a href="https://linkedin.com/in/raissa-assis-302827199/">Raissa Assis</a></li>
       </ul>
     </td>
   </tr>
