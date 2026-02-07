@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="300px">
-      <img src="chibi-raissa.png" width="300px" alt="Chibi Raissa"/>
+      <img src="RaissaAsssis/chibi-raissa.jpg" width="300px" alt="Chibi Raissa"/>
     </td>
     <td>
       <h3>🎓 Formada em Ciência da Computação</h3>
