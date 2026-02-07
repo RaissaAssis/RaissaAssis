@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <td width="300px">
-      <img src="chibi-raissa.jpg" width="300px" alt="Chibi Raissa"/>
+    <td align="center" width="200px">
+      <img src="chibi-raissa.png" width="180px" alt="Chibi Raissa"/>
     </td>
     <td>
       <h3>🎓 Formada em Ciência da Computação</h3>
       <p>Atualmente, estou mergulhando de cabeça no ecossistema <b>Back-end</b>, com foco especial em <b>Python</b>. Adoro resolver problemas complexos e construir APIs robustas.</p>
       <ul>
-        <li>🌱 Atualmente estudando: <b>Python (Django/FastAPI)</b> e Arquitetura de Sistemas.</li>
+        <li>🌱 Estudando: <b>Python (Django/FastAPI)</b> e Arquitetura de Sistemas.</li>
         <li>💻 Experiência com: Java, JavaScript e Python.</li>
         <li>📧 Contato: <a href="mailto:raissa2002assis@gmail.com">raissa2002assis@gmail.com</a></li>
         <li>🔗 LinkedIn: <a href="https://linkedin.com/in/raissa-assis-302827199/">Raissa Assis</a></li>
@@ -42,7 +42,9 @@
 ---
 
 ### 🏆 Contribuições
-![Gráfico de Contribuições](https://ghchart.rshah.org/RaissaAssis)
+<div align="center">
+  <img src="https://ghchart.rshah.org/RaissaAssis" alt="Gráfico de Contribuições" />
+</div>
 
 <p align="center">
   Desenvolvido com ☕ e código por Raissa Assis
