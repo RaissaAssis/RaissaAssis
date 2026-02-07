@@ -28,13 +28,15 @@ Atualmente, estou mergulhando de cabeça no ecossistema **Back-end**, com foco e
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USER-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaissaAssis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaAssis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
 ### 🏆 Contribuições
-Aqui está o meu gráfico de contribuições:
-
 ![Gráfico de Contribuições](https://ghchart.rshah.org/RaissaAssis)
+
+<p align="center">
+  Desenvolvido com ☕ e código por Raissa Assis
+</p>
