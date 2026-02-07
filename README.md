@@ -1,12 +1,12 @@
-# Olá, eu sou a Raissa Assis! 👋
+# Oie, eu sou a Raissa Assis! 👋
 
 <table border="0">
   <tr>
     <td valign="top" width="180">
-      <img src="chibi-raissa.png" width="160" alt="Chibi Raissa" style="display: block; margin-top: 0;">
+      <img src="chibi-raissa.png" width="160" alt="Chibi Raissa" style="display: block; margin-top: 10px;">
     </td>
     <td valign="top">
-      <h3 style="margin-top: 0;">🎓 Formada em Ciência da Computação</h3>
+      <br> <h3>🎓 Formada em Ciência da Computação</h3>
       <p>Atualmente, estou mergulhando de cabeça no ecossistema <b>Back-end</b>, com foco especial em <b>Python</b>. Adoro resolver problemas complexos e construir APIs robustas.</p>
       <p>
         🌱 <b>Estudando:</b> Python (Django/FastAPI) e Arquitetura de Sistemas.<br>
@@ -17,6 +17,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
