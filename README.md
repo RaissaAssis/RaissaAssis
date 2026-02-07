@@ -2,10 +2,10 @@
 
 <table border="0">
   <tr>
-    <td valign="top" width="180">
+    <td valign="middle" width="180">
       <img src="chibi-raissa.png" width="160" alt="Chibi Raissa">
     </td>
-    <td valign="top">
+    <td valign="middle">
       <h3>🎓 Formada em Ciência da Computação</h3>
       <p>Atualmente, estou mergulhando de cabeça no ecossistema <b>Back-end</b>, com foco especial em <b>Python</b>. Adoro resolver problemas complexos e construir APIs robustas.</p>
       <p>
