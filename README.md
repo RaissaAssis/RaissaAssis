@@ -1,7 +1,7 @@
 # Olá, eu sou a Raissa Assis! 👋
 
 <p align="left">
-  <img src="chibi-raissa.png" width="160" align="right" alt="Chibi Raissa">
+  <img src="chibi-raissa.png" width="160" align="left" alt="Chibi Raissa">
   <h3>🎓 Formada em Ciência da Computação</h3>
   Atualmente, estou mergulhando de cabeça no ecossistema <b>Back-end</b>, com foco especial em <b>Python</b>. Adoro resolver problemas complexos e construir APIs robustas.
   <br><br>
