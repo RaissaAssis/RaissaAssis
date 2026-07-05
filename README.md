@@ -29,12 +29,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/RaissaAssis">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=RaissaAssis&layout=compact&langs_count=7&theme=dracula" height="180" alt="Linguagens mais usadas" />
-  </a>
-  <a href="https://github.com/RaissaAssis">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RaissaAssis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
-  </a>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=RaissaAssis&layout=compact&langs_count=7&theme=dracula" height="180" alt="Linguagens Mais Usadas" />
 </p>
   
 ---
