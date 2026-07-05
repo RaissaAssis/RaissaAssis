@@ -28,10 +28,10 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
+<p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=RaissaAssis&layout=compact&langs_count=7&theme=dracula" height="180" alt="Linguagens Mais Usadas" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=RaissaAssis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="Estatísticas Gerais do GitHub" />
-</div>
+</p>
   
 ---
 
